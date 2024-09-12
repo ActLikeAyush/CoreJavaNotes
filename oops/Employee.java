@@ -1,3 +1,4 @@
+
 class Employee{
 
     int id=1;
@@ -13,5 +14,6 @@ class Employee{
         Employee obj=new Employee();
         obj.sleep();
         obj.work();
+        
     }
 }
